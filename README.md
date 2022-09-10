@@ -1,6 +1,6 @@
 # Console application in C 🕹️
 
-## SIAT | System information 📊
+## SIH | System information 📊
 
 - Hospital system information 🏥
 - It is be able to save, write and read patient data 💾
