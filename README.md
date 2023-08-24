@@ -37,8 +37,8 @@ We're sorry, preview not available :(
 ## 4. Author
 
 - Jefferson Mejía - Eng. Systems Student, Web developer </>
-- [Johao Castillo - Eng. Systems Student](https://github.com/Eazy-E-593)
-- [Gabriel Demera Ureta - Teacher and Eng. Systems](https://www.linkedin.com/in/gabriel-p-demera-ureta-2741138b/)
+- [Johao Castillo ](https://github.com/Eazy-E-593) - Eng. Systems Student
+- [Gabriel Demera Ureta](https://www.linkedin.com/in/gabriel-p-demera-ureta-2741138b/) - Teacher, Eng. Systems
 
 [Universidad Técnica de Manabí](https://utm.edu.ec/)
 
