@@ -15,7 +15,7 @@ Schedule medical appoitments, store receipts and pacients 🏥
 
 ## 1. Introduction
 
-See our universe as you've never done before, simulate astronomical events like eclipses and learn about planet characteristics 🪐
+Management patients, receipts and view the patients information in real time throght the console. An fast app developed with C.
 
 ## 2. Installation
 
